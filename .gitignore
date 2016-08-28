@@ -1,0 +1,15 @@
+# Java .gitignore
+
+test.*
+*.class
+*.jar
+.classpath
+.project
+*.dat
+/bin/
+euph.txt
+out.txt
+test.txt
+.settings/
+output/
+target/
